@@ -1,12 +1,13 @@
-.py[cod]
+venv/
 .html
 .png
 _version.py
 
-.egg-info
-eggs/*
+.eggs/
 __pycache__/*
 dist/*
+
+.github
 
 coverage
 coverage.*
@@ -18,5 +19,3 @@ idea/*
 vscode/
 
 /.ipynb_checkpoints
-
-venv/
