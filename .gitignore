@@ -1,23 +1,22 @@
-*.py[cod]
-*.html
-*.png
+.py[cod]
+.html
+.png
 _version.py
 
-*.egg-info
-.eggs/*
+.egg-info
+eggs/*
 __pycache__/*
 dist/*
 
-.coverage
-.coverage.*
+coverage
+coverage.*
 htmlcov/*
 
 doc/build/*
 
-.idea/*
-.vscode/
+idea/*
+vscode/
 
-**/.ipynb_checkpoints
-*~*
+/.ipynb_checkpoints
 
 venv/
